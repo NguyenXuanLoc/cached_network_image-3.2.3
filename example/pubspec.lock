@@ -26,6 +26,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  cache_manager:
+    dependency: transitive
+    description:
+      path: "."
+      ref: master
+      resolved-ref: "295c2fa2926b796f8d33b75238273f36252f95cc"
+      url: "git@github.com:NguyenXuanLoc/flutter_cache_manager-3.3.0.git"
+    source: git
+    version: "3.3.0"
   cached_network_image:
     dependency: "direct main"
     description:
